@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  word-break: keep-all;
+  font-family: Spoqa Han Sans,sans-serif;
+  letter-spacing: -.3px;
+  line-height: 1.15;
+  color: #222;
+  padding-bottom: 2rem;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 4em;
+  margin: .67em 0;
+  font-weight: bold;
+  font-size: 5rem;
+  line-height: 1.1;
+  /* margin-block-start: 0.83em;
+  margin-block-end: 0.83em; */
+  margin-inline-start: 0px; 
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.period-mark {
+  color: #3a7bd5;
+}
+
+.cover {
+  max-width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.big-paragraph {
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 3rem 0;
+  border-bottom: 1px solid #eee;
+}

@@ -1,0 +1,130 @@
+::selection {
+    background: #00d2ff;
+}
+
+html {
+    line-height: 1.15;
+    letter-spacing: -.3px;
+}
+
+
+body {
+    font-size: 16px;
+    word-break: keep-all;
+    font-family: Spoqa Han Sans,sans-serif;
+}
+
+body:before {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    display: block;
+    content: "";
+    width: 100%;
+    height: 10px;
+    background: #00d2ff;
+    background: -webkit-gradient(linear,left top,right top,from(#3a7bd5),to(#00d2ff));
+    background: linear-gradient(90deg,#3a7bd5,#00d2ff);
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div {
+    display: block;
+}
+
+h2 {
+    font-size: 2.7rem;
+    margin: 4rem 0 2rem;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h3, h4 {
+    font-size: 2rem;
+    margin: 0 0 1rem;
+}
+
+h5 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1.3rem;
+}
+
+p {
+    margin: 0 0 1rem;
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem;
+    font-size: 1.1rem;
+}
+
+ul>li {
+    position: relative;
+    padding: .2rem 0 .2rem 1rem;
+}
+
+ul>li:before {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+    content: "•";
+    color: #3a7bd5;
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 3rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.row-right {
+    margin-left: 4rem;
+    /* margin-right: 5rem; */
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+
+.row-left {
+    margin-right: 0rem;
+
+}
+
+.role {
+    display: block;
+}
+
+.time {
+    display: block;
+    margin-bottom: 1.5rem;
+}
