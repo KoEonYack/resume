@@ -99,6 +99,13 @@ ul>li:before {
     color: #3a7bd5;
 }
 
+
+section {
+    /* padding: 0 2rem; */
+    padding-top: 0 2rem;
+    padding-bottom: 0 2rem;
+}
+
 .row {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -127,4 +134,14 @@ ul>li:before {
 .time {
     display: block;
     margin-bottom: 1.5rem;
+}
+
+.other {
+    padding: 3rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.bold {
+    font-weight: bold ;
+    display: inline;
 }

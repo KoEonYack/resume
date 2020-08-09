@@ -3,6 +3,10 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css';
 import HeaderPage from './sections/header'
 import Works from './sections/works'
+import Education from './sections/education'
+import Teaching from './sections/teaching'
+import Awards from './sections/awards'
+import Projects from './sections/projects'
 
 function App() {
   return (
@@ -10,6 +14,10 @@ function App() {
       <div className="cover">
         <HeaderPage />
         <Works />
+        <Projects />
+        <Teaching />
+        <Education />
+        <Awards />
       </div>
     </Router>
   );

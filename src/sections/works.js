@@ -44,7 +44,7 @@ function works() {
                         <time dateTime="2020-06">2020. 06</time> - 현재 
                     </span>
                     <h5>Description<span className="period-mark">.</span></h5>
-                    <p> TDS(Toss Design System, 토스 웹 서비스 대부분이 사용하는 React UI Framework)을 비롯하여 생산성을 위해 사용하고 있는 각종 사내 라이브러리를 유지보수, 개선하고 있습니다. </p>
+                    <p>dummy,dummydummydummydummydummydummydummydummydummydummydummy </p>
                     
                     <h5>What did I do<span className="period-mark">.</span></h5>
                     <ul> 
@@ -56,8 +56,6 @@ function works() {
                     <p>C#, WPF</p>
                 </div>
             </div>
-
-
         </div>
     )
 }
