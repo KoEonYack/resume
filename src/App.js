@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import './App.css';
+// import './App.css';
+import './css/projects.css';
 import HeaderPage from './sections/header'
 import Works from './sections/works'
 import Education from './sections/education'
