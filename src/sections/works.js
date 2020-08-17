@@ -27,7 +27,10 @@ function works() {
                         <li>dummy,dummydummydummydummydummydummydummydummydummydummydummy</li> 
                     </ul>
                     <h5>Tech Stack<span className="period-mark">.</span></h5>
-                    <p>Go, Docker</p>
+                    <p>
+                        <span className="inner-button">Go</span> 
+                        <span className="inner-button">Docker</span> 
+                    </p>
                 </div>
             </div>
             <div className="row">
@@ -53,7 +56,10 @@ function works() {
                         <li>dummy,dummydummydummydummydummydummydummydummydummydummydummy</li> 
                     </ul>
                     <h5>Tech Stack<span className="period-mark">.</span></h5>
-                    <p>C#, WPF</p>
+                    <p>
+                        <span className="inner-button">C#</span> 
+                        <span className="inner-button">WPF</span>  
+                    </p>
                 </div>
             </div>
         </div>

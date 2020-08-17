@@ -144,3 +144,19 @@ section {
     font-weight: bold ;
     display: inline;
 }
+
+
+.inner-button {
+    font-family: Spoqa Han Sans,sans-serif;
+    font-size: 14px;
+    border: 1px solid rgb(158, 158, 158);
+    color: black;
+    padding: 3px 6px 2px;
+    display: inline-block;
+    border-radius: 7px;
+    margin-left: 2px;
+    margin-top: -3px;
+    vertical-align: middle;
+    letter-spacing: 0.5px;
+    word-break: normal;
+}

@@ -8,3 +8,8 @@
 - https://react-bootstrap.github.io/components/cards/
 - https://reactjsexample.com/simple-react-card/
 - https://frontend-lab.com/how-to-create-a-card-component-with-react-and-bootstrap/
+
+
+```
+npm run deploy
+```
