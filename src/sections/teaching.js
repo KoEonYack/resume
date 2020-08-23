@@ -7,7 +7,6 @@ function teaching() {
             <div className="other"> 
                 <h3>블로그 운영<span className="period-mark">.</span></h3>
                 <span className="time"><time dateTime="2017-06">2017. 06.</time> - 현재</span> 
-
                 <p> 
                     <a href="http://covenant.tistory.com/">covenant</a> 
                         개인 블로그를 운영하고 있습니다. '서버', '알고리즘', '네트워크' 등등  
@@ -15,7 +14,6 @@ function teaching() {
                         누적방문 178,000명(20. 08. 16 기준)을 기록하고 있습니다.
                 </p> 
             </div>
-
 
             <div className="other"> 
                 <h3>교내 Tutor, TA<span className="period-mark">.</span></h3>
