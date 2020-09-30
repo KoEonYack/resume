@@ -5,7 +5,7 @@ function awards() {
         <section>
             <h2>Awards<span className="period-mark">.</span></h2>
             <div className="other"> 
-                <h3>2020 오픈소스 컨트리뷰톤 가이바기업후원상<span className="period-mark">.</span></h3>
+                <h3>2020 오픈소스 컨트리뷰톤 가비아기업후원상<span className="period-mark">.</span></h3>
                 <span className="role">주최. 과학기술정보통신부</span>
                 <span className="time"><time dateTime="2020-11">수상일. 2020. 11. 30.</time></span> 
                 <p> 
