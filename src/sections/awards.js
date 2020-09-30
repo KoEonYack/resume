@@ -5,6 +5,15 @@ function awards() {
         <section>
             <h2>Awards<span className="period-mark">.</span></h2>
             <div className="other"> 
+                <h3>2020 오픈소스 컨트리뷰톤 가이바기업후원상<span className="period-mark">.</span></h3>
+                <span className="role">주최. 과학기술정보통신부</span>
+                <span className="time"><time dateTime="2020-11">수상일. 2020. 11. 30.</time></span> 
+                <p> 
+                    Interconnector for the Platform based SaaS delivery프로젝트인 NexCliper Open Source Edition :: Klevr를 개선하였습니다.  <br />
+                    <a href="https://github.com/NexClipper/klevr/pulls?q=is%3Apr+author%3Akoeonyack"> PR List</a>
+                </p>
+            </div>
+            <div className="other"> 
                 <h3>2019 한국컴퓨터종합학술대회 학부생 논문경진대회 우수상<span className="period-mark">.</span></h3>
                 <span className="role">주관. 한국정보과학회</span>
                 <span className="time"><time dateTime="2020-08">수상일. 2019. 08. 12.</time></span> 

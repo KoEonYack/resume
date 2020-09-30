@@ -1,4 +1,3 @@
 # Resume
 
-[https://koeonyack.github.io/resume/]([https://koeonyack.github.io/resume/)  👈
-
+<a href="https://koeonyack.github.io/resume/"> https://koeonyack.github.io/resume/ </a>
