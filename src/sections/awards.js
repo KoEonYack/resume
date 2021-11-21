@@ -31,7 +31,7 @@ function awards() {
                 <ul> 
                     <li> Django로 벡엔드 개발을 하였으며  Auzer를 이용하여 배포하였습니다.   </li> 
                     <li> 상용 정적 분석 도구 Sparrow에서 어떠한 보안 취약점이 발견되지 않아 보안점수에서 만점을 받았습니다. </li> 
-                    <li> <a href="https://github.com/KoEonYack/Everyone-Exercis"> Github. Code </a> | <a href="https://covenant.tistory.com/121"> Blog. 후기 </a>
+                    <li> <a href="https://covenant.tistory.com/121"> 블로그. 제6회 개발보안 경진대회 수상 후기 </a>
                     </li> 
                 </ul>
             </div>

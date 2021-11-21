@@ -15,8 +15,8 @@ function App() {
       <div className="cover">
         <HeaderPage />
         <Works />
-        <Projects />
         <Teaching />
+        <Projects />
         <Education />
         <Awards />
       </div>
