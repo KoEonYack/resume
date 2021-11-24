@@ -40,7 +40,7 @@ function teaching() {
                 </p>
                 <br />
                 <ul> 
-                    <li><div className="bold"> 01. </div> 17년 08월 - 17년 12월: 한동대학교 파이썬 프로그래밍 17-2학기 Tutor</li> 
+                    <li><div className="bold"> 01. </div> (17년) 08월 - 12월: 한동대학교 파이썬 프로그래밍 17-2학기 Tutor</li> 
                     <li><div className="bold"> 02. </div> 17년 12월 - 18년 01월: 한동대학교 C 프로그래밍 겨울계절학기 TA</li> 
                     <li><div className="bold"> 03. </div> 18년 08월 - 18년 12월: 한동대학교 C 프로그래밍 18-2학기 TA</li> 
                     <li><div className="bold"> 04. </div> 18년 12월 - 19년 01월: 한동대학교 C 프로그래밍 겨울계절학기 TA</li>

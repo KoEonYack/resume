@@ -7,7 +7,7 @@ function works() {
             <div className="row">
                 <div className="row-left">
                     <h3>11번가<span className="period-mark">.</span></h3>
-                    <span className="role">Backend Developer</span>
+                    <span className="role">회원플랫폼개발팀 </span>
                     <span>
                         <time dateTime="2021-01">2021. 01</time> - 현재
                     </span>
@@ -62,9 +62,9 @@ function works() {
                     
                     <h5>What did I do<span className="period-mark">.</span></h5>
                     <ul> 
-                        <li> Go언어로 RESTfull 설계를 하였습니다. </li> 
-                        <li> 다양한 정적분석 오픈소스를 활용하여 code quality check을 하였습니다. </li>
-                        <li> ORM으로 GORM을 사용하였습니다. </li> 
+                        <li> Go(Gin-gonic 프레임워크)언어로 RESTfull 설계를 하였습니다. </li> 
+                        <li> 다양한 정적분석 오픈소스를 활용하여 코드 품질을 관리하였습니다. </li>
+                        <li> GORM(ORM)을 활용하여 DB에 접근하였습니다. </li> 
                         <li> Rancher로 관리하는 Kubernetes 환경에 Docker를 이용하여 배포하였습니다. </li> 
                     </ul>
 

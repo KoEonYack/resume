@@ -8,6 +8,7 @@ import Education from './sections/education'
 import Teaching from './sections/teaching'
 import Awards from './sections/awards'
 import Projects from './sections/projects'
+import Contact from './sections/contact'
 
 function App() {
   return (
@@ -17,8 +18,9 @@ function App() {
         <Works />
         <Teaching />
         <Projects />
-        <Education />
         <Awards />
+        <Education />
+        <Contact />
       </div>
     </Router>
   );
