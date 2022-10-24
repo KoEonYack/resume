@@ -13,27 +13,52 @@ function works() {
                     </span>
                 </div>
                 <div className="row-right">
+                    <h4> 고객의무확인 솔루션 연동 </h4>
+                    <span className="time">
+                        <time dateTime="2021-03">2022. 01</time> - 2022. 02
+                    </span>
+                    <p>aaa
+
+
+                    </p>
+                    <h5>Tech Stack<span className="period-mark">.</span></h5>
+                    <p>
+                        <span className="inner-button">JAVA</span> 
+                        <span className="inner-button">Spring Boot</span> 
+                        <span className="inner-button">Spring Security</span> 
+                        <span className="inner-button">Mybatis</span> 
+                        <span className="inner-button">Redis</span> 
+                        <span className="inner-button">Oracle DB</span> 
+                    </p>
+
+                    {/* end block  */}
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    
                     <h4> 개인정보 추출 시스템 </h4>
                     <span className="time">
                         <time dateTime="2021-03">2021. 05</time> - 2021. 09
                     </span>
                     <h5>Description<span className="period-mark">.</span></h5>
-                    <p> 당첨자 결과 조회 등 타 팀에서 고객의 개인정보 조회 요청에 대해서 기존에는 팀에서 <br />
-                        직접 쿼리를 실행하여 개인정보를 추출하던 것에서 자동화 웹 서비스를 구축하였습니다. </p>
+                    <p> 당첨자 결과 조회 등 타 팀에서 고객의 개인정보 조회 요청건을 팀의 개발자가 직접 쿼리를 실행하여 <br />
+                         개인정보를 추출하던 프로세스를 개선하고자 개인정보 추출 요청 / 승인 프로세스가 있는 웹 서비스를 구축하였습니다. </p>
                     
                     <h5>What did I do<span className="period-mark">.</span></h5>
                     <ul> 
-                        <li> 한 달 평균 50건의 개인정보 추출 요청건을 자동화하였습니다. </li> 
+                        <li> 수동으로 개발자가 직접 쿼리를 실행하던 한 달 평균 50건의 개인정보 추출 요청건을 자동화하였습니다. </li> 
                         <li> 사내 인프라를 이용하여 개발/검증/상용 및 배포 시스템을 구축하였습니다. </li>
-                        <li> 스프링 시큐리티를 이용하여 사내 인증 API 연동으로 인증/인가 처리하였습니다. </li> 
+                        <li> 스프링 시큐리티를 이용하여 사내 인증 API 연동(IDMS)으로 인증/인가 구현하였습니다. </li> 
                         <li> 스케줄러를 이용하여 메일 발송 자동화하였습니다. </li>
                     </ul>
 
-
                     <h5>Tech Stack<span className="period-mark">.</span></h5>
                     <p>
+                        <span className="inner-button">JAVA</span> 
                         <span className="inner-button">Spring Boot</span> 
                         <span className="inner-button">Spring Security</span> 
+                        <span className="inner-button">Querydsl</span> 
                         <span className="inner-button">Mybatis</span> 
                         <span className="inner-button">Redis</span> 
                         <span className="inner-button">Oracle DB</span> 
@@ -49,23 +74,24 @@ function works() {
                     </span>
                 </div>
                 <div className="row-right">
-                    <h4>메타버스 공간 제작 에디터</h4>
+                    <h4>메타버스 공간 제작 서비스</h4>
                     <span className="time">
                         <time dateTime="2020-06">2020. 06</time> - 2020. 12 
                     </span>
                     <h5>Description<span className="period-mark">.</span></h5>
-                    <p> 3D 메타버스 공간을 제작할 수 있는 웹 도구 초기 개발부터 진행하였습니다. 웹에서 3D <br />
-                    공간을 제작할 수 있으며 웹으로 배포할 수 있습니다. 또한 제작된 공간을 언리얼로 추출할 수 <br />
-                    있습니다. <br />
+                    <p> 3D 메타버스 공간을 만들 수 있는 웹 도구 초기 개발 설계부터 정식 릴리즈까지 개발하였습니다.  <br />
+                    웹에서 손쉽게 메타버스 공간을 제작할 수 있으며 웹으로 배포할 수 있습니다.  <br />
+                    제작된 공간을 언리얼로 추출, 웹 상에 언리얼 정보를 업로드할 수 있는 상호 호환을 지원하였습니다. <br />
                     
                     </p>
                     
                     <h5>What did I do<span className="period-mark">.</span></h5>
                     <ul> 
-                        <li> Go(Gin-gonic 프레임워크)언어로 RESTfull 설계를 하였습니다. </li> 
+                        <li> Go(Gin-gonic 프레임워크)언어로 API 설계를 하였습니다. </li> 
                         <li> 다양한 정적분석 오픈소스를 활용하여 코드 품질을 관리하였습니다. </li>
-                        <li> GORM(ORM)을 활용하여 DB에 접근하였습니다. </li> 
+                        <li> 동적 쿼리를 활용하기 위하여 직접 모듈을 개발하였습니다. </li> 
                         <li> Rancher로 관리하는 Kubernetes 환경에 Docker를 이용하여 배포하였습니다. </li> 
+                        <li> 내부 인증 서버, 아임포트 결제 모듈을 연동하였습니다. </li> 
                     </ul>
 
                     <h5>Tech Stack<span className="period-mark">.</span></h5>
@@ -76,6 +102,7 @@ function works() {
                         <span className="inner-button">GORM</span>
                         <span className="inner-button">MySQL</span> 
                         <span className="inner-button">Docker</span> 
+                        <span className="inner-button">AWS</span> 
                     </p>
                 </div>
             </div>

@@ -44,11 +44,13 @@ function awards() {
                 <span className="time"><time dateTime="2017-06">수상일: 2017. 06.</time> - 2019. 06</span> 
                 <p> 2017년 06월부터 2019년 06월까지 한동대학교 SW중심대학 장학생으로 선정되었습니다. </p>
             </div>
-            <div className="other"> 
+
+            {/* disable 22. 03. 09 */}
+            {/* <div className="other"> 
                 <h3>SW융합경진대회 우수상<span className="period-mark">.</span></h3>
                 <span className="time"><time dateTime="2017-06">수상일: 2017. 12.</time></span> 
                 <p> 교내 SW융합경진대회에서 '스마트 신호 교통체계'주제로 우수상을 수상하였습니다. </p>
-            </div>
+            </div> */}
         </section>
     )
 }
